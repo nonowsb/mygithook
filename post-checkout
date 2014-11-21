@@ -1,6 +1,6 @@
 #!/bin/sh
 
-path_to_changelog=/var/www/ch-libourne/CHANGELOG.txt
+path_to_changelog=/absolute-path/to/your/CHANGELOG.txt
 
 prevHEAD=$1
 newHEAD=$2
