@@ -16,5 +16,6 @@ USE WITH GIT FLOW
 NOTICE
 ------
 
+* First tag is empty
 * Don't work with "hotfixes" (git flow hotfix start)
 * Never call a branch "..release.."
